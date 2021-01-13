@@ -24,8 +24,8 @@ function Manager() {
         },
         {
             type: "input",
-            message: "What is the manager's ID?",
-            name: "ID",
+            message: "What is the manager's Id?",
+            name: "Id",
         },
         {
             type: "input",
@@ -52,8 +52,8 @@ function Engineer() {
         },
         {
             type: "input",
-            message: "What is the engineer's ID?",
-            name: "ID",
+            message: "What is the engineer's Id?",
+            name: "Id",
         },
         {
             type: "input",
@@ -80,8 +80,8 @@ function Intern() {
         },
         {
             type: "input",
-            message: "What is the intern's ID?",
-            name: "ID",
+            message: "What is the intern's Id?",
+            name: "Id",
         },
         {
             type: "input",
