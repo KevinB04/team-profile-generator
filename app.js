@@ -37,10 +37,12 @@ function Manager() {
             message: "What is the manager's office number?",
             name: "number",
         },
+    ])
+        .then(( employee )) => {
+            console.log(employee);
+            if ()
+        }
 
-
-
-    ]);
 };
 
 function Engineer() {
