@@ -6,8 +6,8 @@
    - [Description](#description)
    - [Installation](#installation)
    - [Usage](#usage)
-   - [Tests](#tests)
    - [Contributing](#contributing)
+   - [Credits](#credits)
    - [License](#license)
 
   ## Description
@@ -20,7 +20,7 @@
   1. Open up your terminal and verify that you are in the correct path.
   2. Run `npm start` and you will see a list of prompts.
   3. After you answer all of the prompts, an "Output" folder will be created on your left. Click that folder and open `team.html`. Follow that html page in to your browser and you will have your personalized team profile ready for you.
-  ![professional-readme-generator](/assets/images/README.jpg)
+  ![team-profile](/assets/images/team-profile.jpg)
 
   ## Contributing
   Not accepting any contributions at this time.
