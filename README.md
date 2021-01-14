@@ -11,13 +11,13 @@
    - [License](#license)
 
   ## Description
-  This project prompts the user to build an engineering team. The user can choose between "Manager", "Engineer", and "Intern" in order to build a profile for their employees.
+  This project prompts the user to build a team profile for their employees. The user can choose between "Manager", "Engineer", and "Intern" in order to build a profile for their employees.
 
   ## Installation
-  You may fork the repo from my GitHub. I recommend installing [Node.js](https://nodejs.org/en/) so that you have the ability to successfully run this project in your Visual Studio Code.
-
+  You may fork the repo from my GitHub and run this project in Visual Studio Code.
+  
   ## Usage
-  1. Open up your terminal and verify that you are in the correct path.
+  1. Open `app.js` your terminal and verify that you are in the correct path.
   2. Run `npm start` and you will see a list of prompts.
   3. After you answer all of the prompts, an "Output" folder will be created on your left. Click that folder and open `team.html`. Follow that html page in to your browser and you will have your personalized team profile ready for you.
   ![team-profile](/assets/images/team-profile.jpg)
